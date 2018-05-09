@@ -1,5 +1,0 @@
-weather_api = 'd9a839f5e4705b2c5398e33286955337'
-spotify_client_ID = '7efe5b269e454abe887ee86a0c81601e'
-spotify_client_secret = '908f8904f0b749f9b49ceacc6f89fd3b'
-my_spotify_uri = '1229321465'
-redirect_url = 'https://www.google.com/'
